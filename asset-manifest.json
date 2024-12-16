@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/SMSYS-Main/static/css/main.c76a1b89.css",
-    "main.js": "/SMSYS-Main/static/js/main.793bd223.js",
+    "main.js": "/SMSYS-Main/static/js/main.8737a1c7.js",
     "static/js/453.ea75aa5e.chunk.js": "/SMSYS-Main/static/js/453.ea75aa5e.chunk.js",
     "static/media/break.gif": "/SMSYS-Main/static/media/break.38e1663ea465eb30b69b.gif",
     "static/media/yoga.gif": "/SMSYS-Main/static/media/yoga.166b018cb7a6e183b760.gif",
     "static/media/food.gif": "/SMSYS-Main/static/media/food.15524ff4b2465d94cbf3.gif",
     "index.html": "/SMSYS-Main/index.html",
     "main.c76a1b89.css.map": "/SMSYS-Main/static/css/main.c76a1b89.css.map",
-    "main.793bd223.js.map": "/SMSYS-Main/static/js/main.793bd223.js.map",
+    "main.8737a1c7.js.map": "/SMSYS-Main/static/js/main.8737a1c7.js.map",
     "453.ea75aa5e.chunk.js.map": "/SMSYS-Main/static/js/453.ea75aa5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76a1b89.css",
-    "static/js/main.793bd223.js"
+    "static/js/main.8737a1c7.js"
   ]
 }
